@@ -35,38 +35,14 @@
 [WebHost]:doc/webHost.md
 [AppPublish]:doc/appPublish.md
 
-主題             | 說明       | 連結
------------------|------------|------------------------
-1 [軟體工程概論] |            |
-[Model]          |            |
-[Requirement]    |            |
-[Analysis]       |            |
-[Implementation] |            |
-[Test]           |            |
-[Release]        |            |
-2 [程式實作]     |            |
-[Nodejs]         |            |
-3 [軟體測試]         |            |
-[TDD]            |            |
-[CI]             |            |
-[DevOps]         |            |
-4 [專案管理]     |            |
-[Git]            |            |
-[Schedule]       |            |
-[Agile]          |            |
-[XP]             |            |
-[Scrum]          |            |
-5 [系統分析]     |            |
-[Object]         |            |
-[UML]            |            |
-[RUP]            |            |
-[Refactor]       |            |
-[DesignPattern]  |            |
-[Verification]   |            |
-6 [產品發行]     |            |
-[Npm]            |            |
-[WebHost]        |            |
-[AppPublish]     |            |
+主題             | 說明       
+-----------------|-----------------------------------------------
+1 [軟體工程概論] | [Model] / [Requirement] / [Analysis] / [Implementation] /  [Test] / [Release]
+2 [程式實作]     | [Nodejs] 
+3 [軟體測試]     | [TDD] / [CI] / [DevOps] 
+4 [專案管理]     | [Git] / [Schedule] / [Agile] / [XP] / [Scrum]
+5 [系統分析]     | [Object] / [UML] / [RUP] / [Refactor] / [DesignPattern] / [Verification]
+6 [產品發行]     | [Npm] / [WebHost] / [AppPublish]
 
 ## 教材來源
 
