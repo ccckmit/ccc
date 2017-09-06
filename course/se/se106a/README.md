@@ -11,7 +11,8 @@
 [Test]:doc/test.md
 [Release]:doc/release.md
 [程式實作]:doc/implementation.md
-[Nodejs]:doc/nodejs
+[NodeJS]:doc/nodejs
+[ElectronJS]:doc/electronjs
 [軟體測試]:doc/test.md
 [TDD]:doc/tdd.md
 [CI]:doc/ci.md
@@ -38,7 +39,7 @@
 主題             | 說明       
 -----------------|-----------------------------------------------
 1 [軟體工程概論] | [Model] / [Requirement] / [Analysis] / [Implementation] /  [Test] / [Release]
-2 [程式實作]     | [Nodejs] 
+2 [程式實作]     | [NodeJS] / [ElectronJS]
 3 [軟體測試]     | [TDD] / [CI] / [DevOps] 
 4 [專案管理]     | [Git] / [Schedule] / [Agile] / [XP] / [Scrum]
 5 [系統分析]     | [Object] / [UML] / [RUP] / [Refactor] / [DesignPattern] / [Verification]
