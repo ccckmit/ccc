@@ -2,9 +2,9 @@
 
 週數 | 題目
 -----|------------------------------
-1    | not, and, or, xor, mux, dmux
-2    | Not16, And16, Or16, Mux16, Or8Way, 
-3    | Mux4Way16, Mux8Way16, DMux4Way, DMux8Way
+1    | not, and, or, xor, 
+2    | mux, dmux, Not16, And16, Or16, Mux16
+3    | Or8Way, Mux4Way16, Mux8Way16, DMux4Way, DMux8Way
 4    | HalfAdder, FullAdder, Add16, Inc16
 5    | ALU (nostat), ALU
 6    | Bit, Register, RAM8, RAM64
