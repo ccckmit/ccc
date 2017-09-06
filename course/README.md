@@ -7,7 +7,7 @@
 [計算機結構](co/co106a) | [C] + [Verilog] + [Icarus]  | 二上 | 必 | nand2tetris (Part I) , CPU 設計
 [系統程式](sp/) | [C] + [gcc] | 二下 | 必 | nand2tetris (Part II) , 編譯器 , 系統軟體
 [人工智慧](ai/) | [JavaScript] + [Node.js] | 三下 | 選 | [科學計算](ai6/book/sc.md) , [計算理論](ai6/book/ct.md) , [自然語言](ai6/book/NLP.md) , [機器學習](ai6/book/ml.md)
-[軟體工程](se/se106a) | [JavaScript] + [github]  | 四上 | 選 | 建議二上或三上就選，專題會順利一點！
+[軟體工程](se/se106a/doc/) | [JavaScript] + [github]  | 四上 | 選 | 建議二上或三上就選，專題會順利一點！
 
 注意：修課前請先閱讀 [修課須知](courseKnowhow.md) 。
 
