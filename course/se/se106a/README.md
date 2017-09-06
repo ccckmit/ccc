@@ -60,7 +60,6 @@
 [DevOps]         |            |
 4 [專案管理]     |            |
 [Git]            |            |
-[Github]         |            |
 [Schedule]       |            |
 [Agile]          |            |
 [XP]             |            |
