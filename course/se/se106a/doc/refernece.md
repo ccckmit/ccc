@@ -60,3 +60,16 @@
 * [如何入門敏捷專案開發？（導讀）](http://blog.xdite.net/posts/2015/09/05/how-to-get-started-with-agile-development)
 * [朱孝國:軟體工程(Software Engineering;SE)](http://irw.ncut.edu.tw/peterju/se.html)
 
+## 書籍
+
+* [ProGit 電子書](https://git-scm.com/book/zh-tw/v1)
+* [GitHub入門與實踐](http://www.books.com.tw/products/CN11260570)
+* [构建之法（第三版）](https://book.douban.com/subject/25965995/)
+
+## 影片
+
+* [CS 6300: Software Development Process (Software Engineering: Concepts and Practice)](https://www.udacity.com/course/software-development-process--ud805)
+* [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+* [Software Engineering Essentials](https://courses.edx.org/courses/course-v1:TUMx+EASEx+2T2017/course/#block-v1:TUMx+EASEx+2T2017+type@chapter+block@d91c7ec8a379406d80f87f7377bed2f5)
+
+
