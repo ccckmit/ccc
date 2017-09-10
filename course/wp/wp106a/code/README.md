@@ -12,4 +12,3 @@
 * https://github.com/hokein/electron-sample-apps
 * https://github.com/sindresorhus/awesome-electron
 
-
