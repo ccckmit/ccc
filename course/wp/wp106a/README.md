@@ -6,16 +6,15 @@
 * [範例程式](code)
 * [習題作業](homework)
 
-學習本課程時，記得直接從範例學習，然後請先 fork [習題專案](homework)， 基本上每周都要交習題，方法是將習題寫完後 commit 回你所 fork 的習題專案中，老師會看該專案與 commit log 來評定你的成績。
+學習本課程時，記得直接從範例學習，然後請先 fork [習題專案](https://github.com/cccnqu/wp106a_resume)， 基本上每周都要交習題，方法是將習題寫完後 commit 回你所 fork 的習題專案中，老師會看該專案與 commit log 來評定你的成績。
 
 ## 參考資源
 
-[維基百科：Electron]:https://zh.wikipedia.org/wiki/Electron_(%E8%BD%AF%E4%BB%B6%E6%A1%86%E6%9E%B6)
-
-* [維基百科：Electron]
-* <https://electron.atom.io/>
-* <https://github.com/electron/electron>
-* <https://github.com/electron/electron-quick-start>
-* <https://electron.atom.io/docs/>
+* 維基 : https://en.wikipedia.org/wiki/Electron_(software_framework)
+* 官網 : https://electron.atom.io/
+* 專案 : https://github.com/electron/electron
+* 簡介 : https://github.com/electron/electron-quick-start
+* 文件 : https://electron.atom.io/docs/
+* 社群 : https://electron.atom.io/community
 
 

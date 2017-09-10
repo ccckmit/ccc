@@ -24,8 +24,8 @@
 [科學計算](scientificComputing.md) | [JavaScript] + [R]  | 三上 | 停開 | [微積分] , [機率統計] , 線性代數 , 數值分析
 -->
 
-[C]:c1.md
-[JavaScript]:js1.md
+[C]:../book/cBooks.md
+[JavaScript]:../book/jsBooks.md
 [Node.js]:https://nodejs.org/
 [Electron.js]:https://electron.atom.io/
 [Blender]:https://www.blender.org/
