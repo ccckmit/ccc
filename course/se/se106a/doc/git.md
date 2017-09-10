@@ -18,3 +18,19 @@
 * [GIT Demo: Intro To Git](https://classroom.udacity.com/courses/ud805/lessons/3666138591/concepts/6433687490923)
 * [GIT Demo: Github](https://classroom.udacity.com/courses/ud805/lessons/3666138591/concepts/6433687510923)
 * [GIT Recap: Local Repositories](https://classroom.udacity.com/courses/ud805/lessons/3666138591/concepts/5758085600923)
+
+## 筆記
+
+如何移除 github 的 ssh 設定
+
+https://stackoverflow.com/questions/11067818/how-do-you-reset-the-stored-credentials-in-git-credential-osxkeychain
+
+
+From Terminal:
+
+```
+ $ git credential-osxkeychain erase
+ host=github.com
+ protocol=https
+ <press return>
+```
