@@ -3,3 +3,4 @@
 * [Electron.js 簡介](introduction.md)
 * [Electron.js 的歷史](history.md)
 * [第一個 Electron.js 程式](hello.md)
+* [Electron.js 的架構](architecture.md)
