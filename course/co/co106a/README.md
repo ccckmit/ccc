@@ -4,7 +4,13 @@
 
 > Nand2tetris = 計算機結構 + 系統程式
 
-網站： [Nand2tetris -- 動手設計電腦的軟硬體](https://mdbookspace.com/view/nand2tetris/)
+## 網站
+
+* [Nand2tetris -- 動手設計電腦的軟硬體](https://mdbookspace.com/view/nand2tetris/)
+
+## 專案
+
+* Verilog : https://github.com/ccckmit/nand2tetris_verilog
 
 ## 書籍
 

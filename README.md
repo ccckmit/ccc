@@ -7,6 +7,6 @@
 專長          | 寫程式 ( [NodeJS](https://nodejs.org/) + [JavaScript](book/jsBooks.md) + [C](book/cBooks.md) ) , 寫書 ( [Markdown](https://zh.wikipedia.org/wiki/Markdown) )
 聯絡          | ccckmit@gmail.com , [Facebook](https://www.facebook.com/ccckmit)
 帳號          | [Github](https://github.com/ccckmit) , [SlideShare](http://www.slideshare.net/ccckmit/) , [YouTube](https://www.youtube.com/user/ccckmit)
-作品          | [課程](course/README.md) , [書籍](book/README.md) , [程式](code/README.md)
+作品          | [課程](course/README.md) , [書籍](book/README.md) , [程式](code/README.md) , [投影片](http://www.slideshare.net/ccckmit/)
 
 
