@@ -29,7 +29,7 @@
 |  | [實作：機率式邏輯推論](probLogic.md)         |  |    |
 |  | [實作：模糊邏輯推論](fuzzyLogic.md)         |  |    |
 | 第 7 章  |  [語言處理](linguistics.md)       |  |    |
-| 第 8 章  |  [機器學習](machineLearning.md)       |  |    |
+| 第 8 章  |  [機器學習](machinelearning.md)       |  |    |
 | 第 9 章  |  [影像處理](image.md)       |  |    |
 | | [結語](conclusion.md)  |    |                                    |
 
